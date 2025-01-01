@@ -3,7 +3,7 @@
     "dbUrl": "mongodb://3.108.26.115",
     "encryptionKey": "TRACKROUTE_PRO-encryption-key",
     "jwtPrivateKey": "TRACKROUTE_PRO-jwt-private-key",
-    // "sendgrid_api_key": "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",
+    "sendgrid_api_key": "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",
     "sendgrid_from_email": "kabariyasweta98@gmail.com",
     "file": {
       "path": "./file"
